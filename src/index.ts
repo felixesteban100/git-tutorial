@@ -1,2 +1,2 @@
 console.log('index.ts')
-console.log('version2')
+console.log('version3')
